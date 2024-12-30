@@ -1,0 +1,71 @@
+{
+  "minecraft:recipes/decorations/lantern": {
+    "criteria": {
+      "has_iron_nugget": "2024-12-30 21:51:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_boots": "2024-12-30 21:51:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_boots": "2024-12-30 21:51:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2024-12-30 21:45:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2024-12-30 21:50:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2024-12-30 21:47:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chain": {
+    "criteria": {
+      "has_iron_nugget": "2024-12-30 21:51:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:old_growth_birch_forest": "2024-12-30 21:48:15 +0000",
+      "minecraft:old_growth_pine_taiga": "2024-12-30 21:45:42 +0000",
+      "minecraft:forest": "2024-12-30 21:48:02 +0000",
+      "minecraft:taiga": "2024-12-30 21:48:05 +0000",
+      "minecraft:ocean": "2024-12-30 21:48:33 +0000",
+      "minecraft:river": "2024-12-30 21:48:46 +0000",
+      "minecraft:meadow": "2024-12-30 21:46:48 +0000",
+      "minecraft:stony_shore": "2024-12-30 21:48:28 +0000",
+      "minecraft:plains": "2024-12-30 21:48:36 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2024-12-30 21:51:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2024-12-30 21:49:49 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3578
+}
