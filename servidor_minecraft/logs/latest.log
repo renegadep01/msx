@@ -223,3 +223,14 @@
 [02:33:17] [Server thread/INFO]: sxbaspz left the game
 [02:33:22] [Server thread/INFO]: fartei lost connection: Timed out
 [02:33:22] [Server thread/INFO]: fartei left the game
+[02:46:46] [Server thread/INFO]: Stopping the server
+[02:46:46] [Server thread/INFO]: Stopping server
+[02:46:46] [Server thread/INFO]: Saving players
+[02:46:46] [Server thread/INFO]: Saving worlds
+[02:46:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
+[02:46:47] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
+[02:46:47] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
+[02:46:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02:46:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02:46:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02:46:47] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
