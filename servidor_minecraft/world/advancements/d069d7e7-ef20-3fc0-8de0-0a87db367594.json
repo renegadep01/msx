@@ -41,6 +41,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2024-12-31 02:05:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2024-12-31 01:43:11 +0000"
@@ -176,6 +182,12 @@
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2024-12-31 01:43:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2024-12-31 02:01:46 +0000"
     },
     "done": true
   },
@@ -654,6 +666,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2024-12-31 02:01:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_redstone": "2024-12-31 01:48:43 +0000"
@@ -776,7 +794,9 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:old_growth_birch_forest": "2024-12-31 02:01:47 +0000",
       "minecraft:sparse_jungle": "2024-12-31 01:33:58 +0000",
+      "minecraft:jungle": "2024-12-31 01:59:11 +0000",
       "minecraft:river": "2024-12-31 01:54:28 +0000",
       "minecraft:lush_caves": "2024-12-31 01:53:04 +0000",
       "minecraft:bamboo_jungle": "2024-12-31 01:37:33 +0000"
